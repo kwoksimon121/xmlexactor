@@ -1,5 +1,5 @@
 # xmlextractor
-This is a tool to extract XML element from XML file by tag. Initialize version updated. 
+This is a tool to extract XML element from XML file by tag. Initial version updated. 
 
 ## Prerequisites
 * lxml
